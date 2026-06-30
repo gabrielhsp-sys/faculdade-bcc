@@ -23,8 +23,6 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 ```
 **✅ 12 concluídas** · **🟡 7 cursando** · **⚪ 16 a cursar**
 
-> ℹ️ O status de cada disciplina é um ponto de partida — ajuste à vontade na tabela abaixo e no `README.md` de cada pasta.
-
 ## 🗂️ Disciplinas por período
 
 ### 1º Período
