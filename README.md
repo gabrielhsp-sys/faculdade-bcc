@@ -90,14 +90,14 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 
 | Código | Disciplina | Status |
 | :--- | :--- | :--- |
-| `DCE676` | [Ética, Computador e Sociedade](./7-periodo/dce676-etica-computador-e-sociedade/) | 🟡 Cursando |
+| `DCE676` | [Ética, Computador e Sociedade](./7-periodo/dce676-etica-computador-e-sociedade/) | ✅ Concluída |
 | `DCE677` | [Trabalho de Conclusão de Curso I](./7-periodo/dce677-tcc-1/) | ⚪ A cursar |
 
 ### 8º Período
 
 | Código | Disciplina | Status |
 | :--- | :--- | :--- |
-| `DCE543` | [Introdução à Economia](./8-periodo/dce543-introducao-a-economia/) | ⚪ A cursar |
+| `DCE543` | [Introdução à Economia](./8-periodo/dce543-introducao-a-economia/) | ✅ Concluída |
 | `DCE798` | [Trabalho de Conclusão de Curso II](./8-periodo/dce798-tcc-2/) | ⚪ A cursar |
 
 ## 📁 Organização
