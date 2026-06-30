@@ -34,28 +34,28 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 | `DCE842` | [Fundamentos Matemáticos para CC](./1-periodo/dce842-fundamentos-matematicos/) | ✅ Concluída |
 | `DCE555` | [Geometria Analítica](./1-periodo/dce555-geometria-analitica/) | ✅ Concluída |
 | `DCE524` | [Introdução à Ciência da Computação](./1-periodo/dce524-introducao-a-cc/) | ✅ Concluída |
-| `DCE119` | [Lógica Digital](./1-periodo/dce119-logica-digital/) | ✅ Concluída |
+| `DCE119` | [Lógica Digital](./1-periodo/dce119-logica-digital/) | 📌 DP |
 
 ### 2º Período
 
 | Código | Disciplina | Status |
 | :--- | :--- | :--- |
 | `DCE792` | [AEDs II — Prática](./2-periodo/dce792-aeds2-pratica/) | ✅ Concluída |
-| `DCE791` | [AEDs II — Teoria](./2-periodo/dce791-aeds2-teoria/) | ✅ Concluída |
-| `DCE67` | [Álgebra Linear](./2-periodo/dce67-algebra-linear/) | ✅ Concluída |
-| `DCE525` | [Arquitetura e Organização de Computadores](./2-periodo/dce525-arquitetura-e-organizacao/) | ✅ Concluída |
-| `DCE557` | [Cálculo I](./2-periodo/dce557-calculo-1/) | ✅ Concluída |
+| `DCE791` | [AEDs II — Teoria](./2-periodo/dce791-aeds2-teoria/) | 📌 DP |
+| `DCE67` | [Álgebra Linear](./2-periodo/dce67-algebra-linear/) | 📌 DP |
+| `DCE525` | [Arquitetura e Organização de Computadores](./2-periodo/dce525-arquitetura-e-organizacao/) | 📌 DP |
+| `DCE557` | [Cálculo I](./2-periodo/dce557-calculo-1/) | 📌 DP |
 | `DCE527` | [Engenharia de Software](./2-periodo/dce527-engenharia-de-software/) | ✅ Concluída |
 
 ### 3º Período
 
 | Código | Disciplina | Status |
 | :--- | :--- | :--- |
-| `DCE797` | [AEDs III](./3-periodo/dce797-aeds3/) | 🟡 Cursando |
-| `DCE665` | [Cálculo II](./3-periodo/dce665-calculo-2/) | 🟡 Cursando |
-| `DCE121` | [Matemática Discreta](./3-periodo/dce121-matematica-discreta/) | 🟡 Cursando |
-| `DCE530` | [Orientação a Objetos](./3-periodo/dce530-orientacao-a-objetos/) | 🟡 Cursando |
-| `DCE673` | [Programação Funcional](./3-periodo/dce673-programacao-funcional/) | 🟡 Cursando |
+| `DCE797` | [AEDs III](./3-periodo/dce797-aeds3/) | ✅ Concluída |
+| `DCE665` | [Cálculo II](./3-periodo/dce665-calculo-2/) | ⚪ A cursar |
+| `DCE121` | [Matemática Discreta](./3-periodo/dce121-matematica-discreta/) | 📌 DP |
+| `DCE530` | [Orientação a Objetos](./3-periodo/dce530-orientacao-a-objetos/) | ✅ Concluída |
+| `DCE673` | [Programação Funcional](./3-periodo/dce673-programacao-funcional/) | 📌 DP |
 | `DCE672` | [Programação Lógica](./3-periodo/dce672-programacao-logica/) | 🟡 Cursando |
 
 ### 4º Período
