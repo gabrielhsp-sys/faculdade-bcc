@@ -1,6 +1,6 @@
 # Filosofia e Metodologia da Ciência
 
-> **Código:** `DCH1474` · **Período:** 6º · **Status:** ⚪ A cursar  
+> **Código:** `DCH1474` · **Semestre atual:** 4º · **Posição na matriz:** 6º · **Status:** ⚪ A cursar  
 > [↩ Voltar ao índice do curso](../../README.md)
 
 

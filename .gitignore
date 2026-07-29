@@ -83,3 +83,50 @@ build/
 **/cursos/
 **/apostilas_livros/
 # PDFs de livros/cursos baixados — guarde localmente, não no Git
+
+########################################
+# SEGURANCA E ARQUIVOS GERADOS
+########################################
+
+# Credenciais e configurações privadas
+.env
+.env.*
+!.env.example
+**/secrets/
+**/.secrets/
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Bancos e dados locais
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+
+# Testes, cobertura e caches
+coverage/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.manus-logs/
+
+# CMake e Visual C++
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+cmake-build-*/
+vcpkg_installed/
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# Arquivos pessoais e acadêmicos privados
+**/notas-pessoais/
+**/provas-pessoais/
+**/dados-pessoais/
