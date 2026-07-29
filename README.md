@@ -68,6 +68,7 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 | `DCE795` | [Gestão do Ciclo de Vida da Aplicação](./4-periodo/dce795-gestao-ciclo-vida-aplicacao/) | ⚪ A cursar |
 | `DCE131` | [Sistemas Operacionais](./4-periodo/dce131-sistemas-operacionais/) | ⚪ A cursar |
 | `DCE532` | [Teoria de Linguagens e Compiladores](./4-periodo/dce532-teoria-linguagens-e-compiladores/) | ⚪ A cursar |
+| `DCH1474` | [Filosofia e Metodologia da Ciência](./4-periodo/dch1474-filosofia-e-metodologia-da-ciencia/) | ⚪ A cursar |
 
 ### 5º Período
 
@@ -84,7 +85,6 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 | Código | Disciplina | Status |
 | :--- | :--- | :--- |
 | `DCE540` | [Computação Paralela e Distribuída](./6-periodo/dce540-computacao-paralela-e-distribuida/) | ⚪ A cursar |
-| `DCH1474` | [Filosofia e Metodologia da Ciência](./6-periodo/dch1474-filosofia-e-metodologia-da-ciencia/) | ⚪ A cursar |
 
 ### 7º Período
 
@@ -102,7 +102,7 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 
 ## 📁 Organização
 
-As disciplinas são agrupadas por **período** (`1-periodo/` … `8-periodo/`). Cada disciplina fica em `dceXXX-nome-da-materia/` e segue, quando aplicável, a estrutura:
+As disciplinas são organizadas nas pastas de **período** (`1-periodo/` … `8-periodo/`). Quando necessário, uma disciplina pode ser colocada junto ao semestre em que está sendo cursada, mesmo que sua posição original na matriz curricular seja diferente. Cada disciplina fica em `dceXXX-nome-da-materia/` e segue, quando aplicável, a estrutura:
 
 ```
 dceXXX-nome-da-materia/
@@ -121,6 +121,7 @@ dceXXX-nome-da-materia/
 ## ℹ️ Observações
 
 - **Material de terceiros não é versionado.** Livros e cursos (ex.: Cormen, cursos da Alura, apostilas) foram removidos e estão no `.gitignore` — este repositório guarda apenas o meu próprio trabalho, código e os programas de ensino oficiais.
+- Consulte [Organização acadêmica](docs/organizacao-academica.md) para as regras de versionamento e separação dos materiais privados.
 - Repositório de uso **acadêmico e pessoal**.
 
 <p align="center"><sub>Organizado por Gabriel Henrique · UNIFAL-MG</sub></p>
