@@ -122,6 +122,7 @@ dceXXX-nome-da-materia/
 
 - **Material de terceiros não é versionado.** Livros e cursos (ex.: Cormen, cursos da Alura, apostilas) foram removidos e estão no `.gitignore` — este repositório guarda apenas o meu próprio trabalho, código e os programas de ensino oficiais.
 - Consulte [Organização acadêmica](docs/organizacao-academica.md) para as regras de versionamento e separação dos materiais privados.
+- Consulte [Reinstalação do ambiente](docs/reinstalacao-ambiente.md) para reconstruir as ferramentas acadêmicas do Windows e do WSL.
 - Repositório de uso **acadêmico e pessoal**.
 
 <p align="center"><sub>Organizado por Gabriel Henrique · UNIFAL-MG</sub></p>
