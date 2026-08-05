@@ -62,13 +62,13 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 
 | Código | Disciplina | Status |
 | :--- | :--- | :--- |
-| `DCE534` | [Banco de Dados](./4-periodo/dce534-banco-de-dados/) | ⚪ A cursar |
-| `DCE533` | [Computação Gráfica](./4-periodo/dce533-computacao-grafica/) | ⚪ A cursar |
-| `DCE21` | [Estatística Básica](./4-periodo/dce21-estatistica-basica/) | ⚪ A cursar |
-| `DCE795` | [Gestão do Ciclo de Vida da Aplicação](./4-periodo/dce795-gestao-ciclo-vida-aplicacao/) | ⚪ A cursar |
-| `DCE131` | [Sistemas Operacionais](./4-periodo/dce131-sistemas-operacionais/) | ⚪ A cursar |
-| `DCE532` | [Teoria de Linguagens e Compiladores](./4-periodo/dce532-teoria-linguagens-e-compiladores/) | ⚪ A cursar |
-| `DCH1474` | [Filosofia e Metodologia da Ciência](./4-periodo/dch1474-filosofia-e-metodologia-da-ciencia/) | ⚪ A cursar |
+| `DCE534` | [Banco de Dados](./4-periodo/dce534-banco-de-dados/) | 🟡 Cursando |
+| `DCE533` | [Computação Gráfica](./4-periodo/dce533-computacao-grafica/) | 🟡 Cursando |
+| `DCE21` | [Estatística Básica](./4-periodo/dce21-estatistica-basica/) | 🟡 Cursando |
+| `DCE795` | [Gestão do Ciclo de Vida da Aplicação](./4-periodo/dce795-gestao-ciclo-vida-aplicacao/) | 🟡 Cursando |
+| `DCE131` | [Sistemas Operacionais](./4-periodo/dce131-sistemas-operacionais/) | 🟡 Cursando |
+| `DCE674` | [Teoria de Linguagens e Compiladores](./4-periodo/dce674-teoria-linguagens-e-compiladores/) | 🟡 Cursando |
+| `DCH1474` | [Filosofia e Metodologia da Ciência](./4-periodo/dch1474-filosofia-e-metodologia-da-ciencia/) | 🟡 Cursando |
 
 ### 5º Período
 
