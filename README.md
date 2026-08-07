@@ -66,6 +66,7 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 | `DCE533` | [Computação Gráfica](./4-periodo/dce533-computacao-grafica/) | 🟡 Cursando |
 | `DCE21` | [Estatística Básica](./4-periodo/dce21-estatistica-basica/) | 🟡 Cursando |
 | `DCE795` | [Gestão do Ciclo de Vida da Aplicação](./4-periodo/dce795-gestao-ciclo-vida-aplicacao/) | 🟡 Cursando |
+| `DCE701` | [Programação Web](./4-periodo/dce701-programacao-web/) | 🟡 Cursando |
 | `DCE131` | [Sistemas Operacionais](./4-periodo/dce131-sistemas-operacionais/) | 🟡 Cursando |
 | `DCE674` | [Teoria de Linguagens e Compiladores](./4-periodo/dce674-teoria-linguagens-e-compiladores/) | 🟡 Cursando |
 | `DCH1474` | [Filosofia e Metodologia da Ciência](./4-periodo/dch1474-filosofia-e-metodologia-da-ciencia/) | 🟡 Cursando |
