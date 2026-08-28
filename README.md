@@ -18,9 +18,6 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 
 ## 📊 Progresso
 
-```
-████████░░░░░░░░░░░░░░  12/35 disciplinas (34%)
-```
 **✅ 12 concluídas** · **🟡 7 cursando** · **⚪ 16 a cursar**
 
 ## 🗂️ Disciplinas por período
@@ -56,7 +53,7 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 | `DCE121` | [Matemática Discreta](./3-periodo/dce121-matematica-discreta/) | 📌 DP |
 | `DCE530` | [Orientação a Objetos](./3-periodo/dce530-orientacao-a-objetos/) | ✅ Concluída |
 | `DCE673` | [Programação Funcional](./3-periodo/dce673-programacao-funcional/) | 📌 DP |
-| `DCE672` | [Programação Lógica](./3-periodo/dce672-programacao-logica/) | 🟡 Cursando |
+| `DCE672` | [Programação Lógica](./3-periodo/dce672-programacao-logica/) | 📌 DP |
 
 ### 4º Período
 
@@ -69,7 +66,6 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 | `DCE701` | [Programação Web](./4-periodo/dce701-programacao-web/) | 🟡 Cursando |
 | `DCE131` | [Sistemas Operacionais](./4-periodo/dce131-sistemas-operacionais/) | 🟡 Cursando |
 | `DCE674` | [Teoria de Linguagens e Compiladores](./4-periodo/dce674-teoria-linguagens-e-compiladores/) | 🟡 Cursando |
-| `DCH1474` | [Filosofia e Metodologia da Ciência](./4-periodo/dch1474-filosofia-e-metodologia-da-ciencia/) | 🟡 Cursando |
 
 ### 5º Período
 
@@ -86,6 +82,7 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 | Código | Disciplina | Status |
 | :--- | :--- | :--- |
 | `DCE540` | [Computação Paralela e Distribuída](./6-periodo/dce540-computacao-paralela-e-distribuida/) | ⚪ A cursar |
+| `DCH1474` | [Filosofia e Metodologia da Ciência](./4-periodo/dch1474-filosofia-e-metodologia-da-ciencia/) | 🟡 Cursando |
 
 ### 7º Período
 
