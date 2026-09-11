@@ -83,13 +83,17 @@ Este protótipo simula as seguintes funcionalidades essenciais:
 #### Como Executar o Projeto
 Como este projeto é um MVP estático (frontend puro), não há necessidade de compilação ou instalação de dependências.
 
-1.  **Clone o repositório:**
+1.  **Clone o repositório da faculdade:**
     ```bash
-    git clone [https://github.com/gabriel-bcc/dce527/tree/main/Trabalhos/neobank](https://github.com/gabriel-bcc/dce527/tree/main/Trabalhos/neobank)
+    git clone https://github.com/gabrielhsp-sys/faculdade-bcc.git
     ```
 
-2.  **Abra o projeto:**
-    * Navegue até a pasta do projeto (ex: `cd neobank`).
+2.  **Entre na pasta do NeoBank+:**
+    ```bash
+    cd faculdade-bcc/2-periodo/dce527-engenharia-de-software/trabalhos/neobank
+    ```
+
+3.  **Abra o projeto:**
     * Abra o arquivo `index.html` diretamente no seu navegador de preferência.
 
 ## Etapa 4: Testes
@@ -150,5 +154,5 @@ Esta seção aborda a "Reflexão Final", respondendo às questões propostas.
 Este repositório segue um modelo Git Flow simplificado para atender ao requisito de "branches organizadas":
 
 * **`main`**: Branch principal. Contém apenas o código estável e entregável (versão final).
-* **`develop`**: Branch de integração. Todo o desenvolvimento e novas funcionalidades são mesclados aqui antes de irem para a `main`.
+* **`develop`**: Branch de integração. Todo o desenvolvimento e novas funcionalidades são mescladas aqui antes de irem para a `main`.
 * **`feature/*`**: Branches de funcionalidade (ex: `feature/pagina-pix`, `feature/dark-mode`). Elas são criadas a partir da `develop` e mescladas de volta na `develop` via Pull Request.
