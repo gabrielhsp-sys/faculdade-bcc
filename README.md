@@ -14,7 +14,7 @@
 
 Repositório de organização dos materiais, códigos, atividades e trabalhos do curso de **Bacharelado em Ciência da Computação** da Universidade Federal de Alfenas (UNIFAL-MG), seguindo a **Dinâmica Curricular 7** (2023).
 
-> 👤 **Gabriel Henrique Silva Pereira** · 🔗 [Portfólio](https://gabriel-bcc.github.io) · 🐙 [GitHub](https://github.com/gabriel-bcc)
+> 👤 **Gabriel Henrique Silva Pereira** · 🔗 [Portfólio](https://gabrielhsp-sys.github.io) · 🐙 [GitHub](https://github.com/gabrielhsp-sys)
 
 ## 📊 Progresso
 
@@ -112,9 +112,9 @@ dceXXX-nome-da-materia/
 
 ## 🔗 Projetos em destaque
 
-- 🌐 **[Portfólio pessoal](https://github.com/gabriel-bcc/gabriel-bcc.github.io)** — [gabriel-bcc.github.io](https://gabriel-bcc.github.io)
-- 🎓 **[Academic System](https://github.com/gabriel-bcc/academic-system)** — gestão acadêmica em Java (RBAC, JavaFX, testes e CI/CD), feito na disciplina de POO
-- 📊 **[AEDs I — Prática](https://github.com/gabriel-bcc/AEDs-I-Pratica)** — trabalho de Controle e Estatísticas de Base de Dados em C++
+- 🌐 **[Portfólio pessoal](https://github.com/gabrielhsp-sys/gabrielhsp-sys.github.io)** — [gabrielhsp-sys.github.io](https://gabrielhsp-sys.github.io)
+- 🎓 **[Academic System](https://github.com/gabrielhsp-sys/academic-system)** — gestão acadêmica em Java (RBAC, JavaFX, testes e CI/CD), feito na disciplina de POO
+- 📊 **[AEDs I — Prática](./1-periodo/dce794-aeds1-pratica/trabalhos/Controle_e_Estatisticas_de_Base_de_Dados/)** — trabalho de Controle e Estatísticas de Base de Dados em C++
 
 ## ℹ️ Observações
 
