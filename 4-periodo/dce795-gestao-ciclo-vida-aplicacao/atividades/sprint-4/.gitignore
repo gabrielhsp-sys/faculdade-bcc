@@ -1,0 +1,5 @@
+out/
+pedidos.txt
+*.class
+.idea/
+.vscode/
