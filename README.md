@@ -18,7 +18,7 @@ Repositório de organização dos materiais, códigos, atividades e trabalhos do
 
 ## 📊 Progresso
 
-**✅ 12 concluídas** · **🟡 7 cursando** · **⚪ 16 a cursar**
+**✅ 11 concluídas** · **🟡 8 cursando** · **📌 8 pendentes (DP)** · **⚪ 9 a cursar**
 
 ## 🗂️ Disciplinas por período
 
