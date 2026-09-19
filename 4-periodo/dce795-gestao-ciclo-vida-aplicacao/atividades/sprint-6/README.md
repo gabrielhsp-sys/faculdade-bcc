@@ -1,40 +1,30 @@
-# Sprint 6 — Revisão de Orientação a Objetos
+# Sprint 6 - Revisão de POO
 
-Atividade da disciplina **DCE795 — Gestão do Ciclo de Vida da Aplicação**.
+Atividade da matéria de Gestão do Ciclo de Vida da Aplicação.
 
-## Conteúdo praticado
+O código foi feito seguindo as 5 partes do roteiro: encapsulamento, construtores, interface e composição, herança e polimorfismo.
 
-- Encapsulamento
-- Construtores
-- Interface
-- Composição
-- Herança
-- Sobrescrita de métodos
-- Polimorfismo
-- Princípio Aberto/Fechado (OCP)
-- Princípio de Substituição de Liskov (LSP)
-
-## Como executar
+## Executar
 
 ```bash
 javac Atividade_POO_Problema.java
 java Atividade_POO_Problema
 ```
 
-## Reflexões da atividade
+## Reflexões
 
-### Por que não criar setters na classe `Console`?
+### Por que não usei setters em Console?
 
-Porque os dados são definidos no momento em que o objeto é criado e não precisam ficar sendo alterados livremente depois. Isso ajuda a proteger o estado do objeto e evita valores inválidos.
+Porque os valores são passados no construtor e depois só precisam ser lidos. Assim os atributos não ficam sendo alterados de qualquer lugar.
 
-### Por que usar `DadosConsole`?
+### Por que usar DadosConsole?
 
-`Nintendo`, `Playstation` e `Xbox` têm dados em comum, como nome e preço base. A classe `DadosConsole` concentra esses dados e evita repetir os mesmos atributos e getters em todas as classes. Assim, cada console fica mais focado no comportamento que realmente muda, como ligar e calcular o preço.
+Nintendo e Playstation têm os mesmos dados básicos, que são nome e preço. Então usei a classe DadosConsole para guardar isso e não precisar repetir os mesmos atributos nas duas classes.
 
-### Sobrescrever dois métodos em `PlaystationPortatil` viola o LSP?
+### Sobrescrever os métodos de PlaystationPortatil é um problema?
 
-Não. A classe continua cumprindo o contrato da classe `Playstation`: ela ainda consegue ligar e calcular seu preço. O que muda é somente a forma como esses comportamentos são executados. Seria diferente de sobrescrever um método apenas para lançar `UnsupportedOperationException`, pois nesse caso a subclasse estaria recusando um comportamento que a classe pai prometia oferecer.
+Não, porque ela continua fazendo o que a classe Playstation promete. Ela só muda a forma de ligar e o cálculo do preço. Seria diferente se um método fosse sobrescrito só para lançar uma exceção e não fazer o que deveria.
 
-### O que precisou mudar em `Loja` para o Xbox funcionar?
+### O que mudou em Loja para o Xbox funcionar?
 
-Nada. O `Xbox` implementa `IConsole`, então a classe `Loja` consegue tratá-lo da mesma forma que os outros consoles. Isso mostra o Princípio Aberto/Fechado (OCP): o sistema pode ser estendido com novos tipos de console sem precisar modificar a lógica já existente em `Loja`.
+Nada. Como Xbox também implementa IConsole, a Loja consegue usar ele igual aos outros consoles. Isso mostra o OCP, porque dá para adicionar um novo tipo sem precisar alterar a Loja.
