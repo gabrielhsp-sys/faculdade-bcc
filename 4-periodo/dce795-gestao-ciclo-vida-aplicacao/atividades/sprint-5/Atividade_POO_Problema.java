@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * Atividade de revisão — Conceitos fundamentais de Orientação a Objetos
- * Disciplina: Gestão do Cico de Vida da Aplicação (DCE795)
+ * Disciplina: Gestão do Ciclo de Vida da Aplicação (DCE795)
  */
 
 // ===================== PARTE 1 e 2 — Encapsulamento e Construtores =====================
