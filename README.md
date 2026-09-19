@@ -119,5 +119,6 @@ dceXXX-nome-da-materia/
 ## ℹ️ Observações
 
 - Repositório de uso **acadêmico e pessoal**.
+- A licença MIT da raiz se aplica ao código e aos materiais autorais deste repositório. Slides, enunciados, ementas, PDFs e outros materiais de terceiros permanecem sob os direitos de seus respectivos autores.
 
 <p align="center"><sub>Organizado por Gabriel Henrique · UNIFAL-MG</sub></p>

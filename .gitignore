@@ -71,14 +71,16 @@ build/
 *.out
 *.a
 *.so
+a.out
+*.elf
 
 ########################################
-# BINÁRIOS GERADOS
+# BINÁRIOS / SAÍDAS GERADAS
 ########################################
-/bin/
-/dist/
-/build/
-/target/
+bin/
+dist/
+build/
+target/
 
 ########################################
 # MATERIAL DE TERCEIROS (não versionar)
