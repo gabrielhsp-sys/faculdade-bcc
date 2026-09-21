@@ -104,7 +104,7 @@ As disciplinas são organizadas nas pastas de **período** (`1-periodo/` … `8-
 
 ```
 dceXXX-nome-da-materia/
-├─ programa-de-ensino/   # ementa oficial da disciplina
+├─ programa-de-ensino/   # ementa oficial (não versionada, ver Observações)
 ├─ aulas/                # anotações e código de aula
 ├─ atividades/           # listas, exercícios e atividades
 └─ trabalhos/            # trabalhos e projetos avaliativos
@@ -119,6 +119,14 @@ dceXXX-nome-da-materia/
 ## ℹ️ Observações
 
 - Repositório de uso **acadêmico e pessoal**.
-- A licença MIT da raiz se aplica ao código e aos materiais autorais deste repositório. Slides, enunciados, ementas, PDFs e outros materiais de terceiros permanecem sob os direitos de seus respectivos autores.
+- A licença MIT da raiz se aplica ao código e aos materiais autorais deste repositório.
+- **Material de terceiros não é versionado aqui.** Ementas oficiais, slides de aula e listas de
+  exercícios produzidos pela universidade ou pelos professores permanecem sob os direitos de seus
+  respectivos autores e ficam apenas no computador, fora do Git. As pastas
+  `programa-de-ensino/`, `material/` e `exercicios/` seguem existindo na estrutura, mas o conteúdo
+  em PDF delas é ignorado pelo `.gitignore`. Quem precisar desse material deve obtê-lo pelos
+  canais da disciplina.
+- Os PDFs dentro de `trabalhos/` são entregas avaliativas de autoria do Gabriel e do grupo dele, e
+  continuam versionados.
 
 <p align="center"><sub>Organizado por Gabriel Henrique · UNIFAL-MG</sub></p>

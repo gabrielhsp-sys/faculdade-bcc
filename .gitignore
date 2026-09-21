@@ -83,6 +83,15 @@ build/
 target/
 
 ########################################
+# BLENDER (arquivos de cena, fora do Git)
+########################################
+# Cenas de Computacao Grafica passam de 200 MB cada e estouram o limite
+# de 100 MB por arquivo do GitHub. Ficam no disco, nunca no repositorio.
+*.blend
+*.blend1
+*.blend[0-9]*
+
+########################################
 # MATERIAL DE TERCEIROS (não versionar)
 ########################################
 **/livros/
@@ -90,6 +99,16 @@ target/
 **/cursos/
 **/apostilas_livros/
 # PDFs de livros/cursos baixados — guarde localmente, não no Git
+
+# Material produzido pela universidade ou pelos professores: ementas oficiais,
+# slides, listas de exercicios e PDFs de aula. Continuam no disco, mas nao sao
+# redistribuidos por este repositorio. Trabalhos autorais (pastas trabalhos/)
+# NAO entram aqui.
+**/programa-de-ensino/*.pdf
+**/material/**/*.pdf
+**/exercicios/*.pdf
+1-periodo/dce796-aeds1-teoria/atividades/Atividade com vetores - m#U00e9dia e desvio padr#U00e3o.pdf
+3-periodo/dce797-aeds3/aulas/aula_02/aula_02.pdf
 
 ########################################
 # SEGURANCA E ARQUIVOS GERADOS
