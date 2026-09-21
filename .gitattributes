@@ -29,6 +29,11 @@ Makefile    text eol=lf
 *.ps1       text eol=lf
 *.bat       text eol=crlf
 *.cmd       text eol=crlf
+# Linguagem detectada pelo GitHub: os slides em HTML do trabalho de AEDs III sao
+# material de apresentacao, nao codigo da aplicacao. Sem isto o repositorio
+# aparece como HTML, escondendo o Java e o C++ que sao o conteudo real.
+3-periodo/dce797-aeds3/trabalhos/slides_codigo_fonte/*.html linguist-documentation
+
 # Arquivos binários.
 *.png filter=lfs diff=lfs merge=lfs -text lockable
 *.jpg       binary
